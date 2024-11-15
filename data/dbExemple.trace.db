@@ -1,0 +1,8 @@
+2024-11-15 10:52:47.496895+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLDataException: Erreur lors de la conversion de données "'' (TODO_ITEM: ""DONE"" BOOLEAN)"
+Data conversion error converting "'' (TODO_ITEM: ""DONE"" BOOLEAN)"; SQL statement:
+INSERT INTO "PUBLIC"."TODO_ITEM"("ID","DONE","NAME")VALUES(?,?,?) [22018-224]
+2024-11-15 10:52:47.497892+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLDataException: Erreur lors de la conversion de données "'' (TODO_ITEM: ""DONE"" BOOLEAN)"
+Data conversion error converting "'' (TODO_ITEM: ""DONE"" BOOLEAN)"; SQL statement:
+INSERT INTO "PUBLIC"."TODO_ITEM"("ID","DONE","NAME")VALUES(?,?,?) [22018-224]
